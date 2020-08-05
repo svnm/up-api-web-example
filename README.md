@@ -33,10 +33,10 @@ You can also add merchant logos to `/public/merchants` and return them from `api
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Tech used✨
+## Tech used
 
 - [Next.js](https://nextjs.org) △
 - [Styled-jsx](https://github.com/vercel/styled-jsx) 👩‍🎤
 - [Up API](https://developer.up.com.au) ⚡️
 - [Storybook](https://storybook.js.org) 🖼
-- [TypeScript](https://www.typescriptlang.org) 
+- [TypeScript](https://www.typescriptlang.org) ✨
