@@ -1,0 +1,32 @@
+{
+  "name": "up-api-web-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "storybook": "start-storybook"
+  },
+  "dependencies": {
+    "moment": "^2.27.0",
+    "next": "9.5.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-simple-infinite-scroll": "^0.0.1",
+    "react-vis": "^1.11.7",
+    "rodal": "^1.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "@babel/preset-typescript": "^7.10.4",
+    "@storybook/addon-info": "^5.3.19",
+    "@storybook/react": "^5.3.19",
+    "@types/node": "^14.0.27",
+    "@types/react": "^16.9.44",
+    "babel-loader": "^8.1.0",
+    "typescript": "^3.9.7"
+  }
+}
