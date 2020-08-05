@@ -6,7 +6,7 @@ Example web client using Up Api https://api.up.com.au
 
 ## Getting Started
 
-Go to [Up API](https://developer.up.com.au/#getting-started) to get your access token.
+Go to [Up API getting started](https://developer.up.com.au/#getting-started) to get your access token.
 
 Rename next.config.example.js to `next.config.js` and replace <UP API TOKEN> with your token
 
